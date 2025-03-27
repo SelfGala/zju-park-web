@@ -1,1 +1,1 @@
-# zju-park-web
+# INTLife-web
